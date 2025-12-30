@@ -45,7 +45,7 @@ I specialize in taking products from 0→1 and scaling them to serve Fortune 500
 
 **Security & Infrastructure**: NDR • SIEM • SOAR • Zero Trust • SOC 2/ISO 27001 • BACnet • Modbus • MQTT
 
-**Development**: Python • SQL • React • TypeScript • Real-time Dashboards • API Integrations • Edge Computing
+**Development**: Python • SQL • API Integrations 
 
 **Frameworks**: RICE Prioritization • PMF Stack • Jobs-to-be-Done • LNO Framework • Impact vs Effort Matrix
 
